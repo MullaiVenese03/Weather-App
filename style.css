@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://images.unsplash.com/photo-1601134467661-3d775b999c8b?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    backdrop-filter: brightness(0.9);
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    font-size: 40px;
+    }
+
+    h1 {
+        font-family: 'Times New Roman' ;
+    }
+
+    input {
+        outline: 0px;
+        border: 0px;
+        background-color: transparent;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 450;
+        border-radius: 10px; ;
+        width: 100%;
+    }
+
+    .input-container {
+        padding: 5px 15px;
+        background-color:transparent;
+        width: 450px;
+        font-family: serif;
+        border-radius: 15px;
+    }   
+    
+    .cityname {
+        margin-top: 50px;
+        font-size: 25px;
+        font-family: "comic sans MS";
+    }
+
+    .weather-container {
+        padding: 10px 40px; 
+        padding-bottom: 5px;
+        width: 250px;
+        font-family: "Comic Sans MS";
+        border-radius: 30px;
+        border: 1px solid whitesmoke;
+        background-color: rgb(255, 255, 255, 0.3);
+        margin-top: 50px;
+    }
+
+    .weather-container > h2 {
+        font-size: 60px;
+        margin: 0px;
+    }
+
+    .weather-container > p {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+
+    h3 {
+        margin-top: 60px;
+        font-size: 30px;
+        margin-bottom: 0px
+    }
+
+    .datetime {
+        font-size: 25px;
+        font-family: "comic sans MS";
+    }
+
+    .input-container:focus-within {
+        box-shadow: 0px 10px 25px black;
+    }
+
+    #description {
+        font-family: "comic sans MS";
+    }
+    
