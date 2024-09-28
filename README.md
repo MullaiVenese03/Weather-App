@@ -54,4 +54,4 @@ https://github.com/MullaiVenese03/Weather-App.git
 
 ## License
 
-This project is licensed under the [🤍MullaiVenese](https://github.com/MullaiVenese03/).
+This project is licensed under the [🤍MullaiVenese](https://github.com/MullaiVenese03/). 
